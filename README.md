@@ -1,16 +1,73 @@
 ## Hi there 👋, I'm Abhilash Kshirsagar
 
-<!--
-**abhilashkshirsagaradmin/abhilashkshirsagaradmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 MBA (Information Technology)
+
+💻 Passionate about Python Development, SQL, Power BI, and Business Analysis
+
+📊 Interested in Data Analysis and Process Improvement
+
+🌱 Currently learning Flask, Power BI, and Advanced SQL
+
+---
+
+## Skills
+
+- Python
+- SQL
+- MySQL
+- Power BI
+- Excel
+- Git
+- GitHub
+- CustomTkinter
+
+---
+
+## Projects
+
+### Employee Management System
+
+Desktop application built using:
+
+- Python
+- CustomTkinter
+- MySQL
+- PyMySQL
+
+Features:
+
+- Secure Login
+- CRUD Operations
+- Employee Search
+- MySQL Integration
+
+Repository:
+
+https://github.com/abhilashkshirsagaradmin/Employee-Management-System-Python
+
+---
+
+### SQL Projects
+
+- Hospital Management System
+- Agro E-Commerce Data Analysis
+
+---
+
+### Power BI Dashboard
+
+Interactive dashboard for business insights.
+
+---
+
+## Contact
+
+GitHub:
+https://github.com/abhilashkshirsagaradmin
+
+
+Email:
+abhilashkshirsagar872@gmail.com

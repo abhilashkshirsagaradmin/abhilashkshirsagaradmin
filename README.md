@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Abhilash Kshirsagar
+## Hi there 👋 I'm Abhilash Kshirsagar
 
 
 ## About Me
